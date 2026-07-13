@@ -110,5 +110,7 @@ section {
 
    .box p {
     font-size: 12px;
+    padding-left: 2rem;
+    padding-right: 2rem;
    }
 }
